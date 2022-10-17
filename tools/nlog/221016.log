@@ -1,0 +1,17 @@
+2022-10-16 16:05:36,864 - root - INFO - logger starting
+2022-10-16 16:06:54,275 - root - INFO - logger starting
+2022-10-16 16:07:42,796 - root - INFO - logger starting
+2022-10-16 16:09:17,474 - root - INFO - logger starting
+2022-10-16 16:11:38,439 - root - INFO - logger starting
+2022-10-16 16:15:06,194 - root - INFO - logger starting
+2022-10-16 16:15:45,709 - root - INFO - logger starting
+2022-10-16 16:17:40,632 - root - INFO - logger starting
+2022-10-16 16:18:15,829 - root - INFO - logger starting
+2022-10-16 16:20:31,415 - root - INFO - logger starting
+2022-10-16 16:21:31,414 - root - INFO - logger starting
+2022-10-16 17:14:30,540 - root - INFO - logger starting
+2022-10-16 17:14:43,295 - tensorflow - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2022-10-16 17:14:43,875 - h5py._conv - DEBUG - Creating converter from 7 to 5
+2022-10-16 17:14:43,876 - h5py._conv - DEBUG - Creating converter from 5 to 7
+2022-10-16 17:14:43,876 - h5py._conv - DEBUG - Creating converter from 7 to 5
+2022-10-16 17:14:43,876 - h5py._conv - DEBUG - Creating converter from 5 to 7

@@ -1,0 +1,104 @@
+2022-09-24 14:41:28,424 - root - INFO - logger starting
+2022-09-24 14:41:31,308 - tensorflow - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2022-09-24 14:41:31,637 - h5py._conv - DEBUG - Creating converter from 7 to 5
+2022-09-24 14:41:31,637 - h5py._conv - DEBUG - Creating converter from 5 to 7
+2022-09-24 14:41:31,637 - h5py._conv - DEBUG - Creating converter from 7 to 5
+2022-09-24 14:41:31,637 - h5py._conv - DEBUG - Creating converter from 5 to 7
+2022-09-24 14:47:34,608 - root - INFO - logger starting
+2022-09-24 14:48:19,681 - root - INFO - logger starting
+2022-09-24 14:48:43,953 - root - INFO - logger starting
+2022-09-24 15:08:47,172 - root - INFO - logger starting
+2022-09-24 15:09:52,473 - root - INFO - <generator object Module.parameters at 0x000001EAA1C7D7B0>
+2022-09-24 15:10:03,146 - root - INFO - Accuracy: 0.9829
+2022-09-24 16:00:04,461 - root - INFO - logger starting
+2022-09-24 16:01:11,766 - root - INFO - logger starting
+2022-09-24 16:01:30,795 - root - INFO - logger starting
+2022-09-24 16:01:53,491 - root - INFO - logger starting
+2022-09-24 16:02:58,700 - root - INFO - logger starting
+2022-09-24 16:03:20,073 - root - INFO - logger starting
+2022-09-24 16:04:35,042 - root - INFO - logger starting
+2022-09-24 16:10:34,871 - root - INFO - logger starting
+2022-09-24 16:10:34,926 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-24 16:10:34,926 - PIL.PngImagePlugin - DEBUG - STREAM b'tEXt' 41 57
+2022-09-24 16:10:34,926 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 110 9
+2022-09-24 16:10:34,926 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 131 676
+2022-09-24 16:11:16,699 - root - INFO - logger starting
+2022-09-24 16:11:16,743 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-24 16:11:16,743 - PIL.PngImagePlugin - DEBUG - STREAM b'tEXt' 41 57
+2022-09-24 16:11:16,743 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 110 9
+2022-09-24 16:11:16,744 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 131 676
+2022-09-24 16:12:48,455 - root - INFO - logger starting
+2022-09-24 16:12:48,508 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-24 16:12:48,508 - PIL.PngImagePlugin - DEBUG - STREAM b'tEXt' 41 57
+2022-09-24 16:12:48,508 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 110 9
+2022-09-24 16:12:48,509 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 131 676
+2022-09-24 16:13:32,249 - root - INFO - logger starting
+2022-09-24 16:13:32,293 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-24 16:13:32,293 - PIL.PngImagePlugin - DEBUG - STREAM b'tEXt' 41 57
+2022-09-24 16:13:32,293 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 110 9
+2022-09-24 16:13:32,294 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 131 676
+2022-09-24 16:14:06,090 - root - INFO - logger starting
+2022-09-24 16:14:06,136 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-24 16:14:06,136 - PIL.PngImagePlugin - DEBUG - STREAM b'tEXt' 41 57
+2022-09-24 16:14:06,136 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 110 9
+2022-09-24 16:14:06,136 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 131 676
+2022-09-24 16:40:52,338 - root - INFO - logger starting
+2022-09-24 16:43:07,888 - root - INFO - logger starting
+2022-09-24 16:43:51,894 - root - INFO - logger starting
+2022-09-24 16:45:00,705 - root - INFO - logger starting
+2022-09-24 16:45:44,813 - root - INFO - logger starting
+2022-09-24 16:47:55,510 - root - INFO - logger starting
+2022-09-24 16:48:05,712 - root - INFO - logger starting
+2022-09-24 16:48:52,949 - root - INFO - logger starting
+2022-09-24 16:49:31,888 - root - INFO - logger starting
+2022-09-24 16:50:06,211 - root - INFO - logger starting
+2022-09-24 16:56:22,587 - root - INFO - logger starting
+2022-09-24 16:56:53,781 - root - INFO - logger starting
+2022-09-24 16:56:53,851 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-24 16:56:53,851 - PIL.PngImagePlugin - DEBUG - STREAM b'tEXt' 41 57
+2022-09-24 16:56:53,851 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 110 9
+2022-09-24 16:56:53,851 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 131 667
+2022-09-24 16:57:40,865 - root - INFO - logger starting
+2022-09-24 16:57:40,922 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-24 16:57:40,922 - PIL.PngImagePlugin - DEBUG - STREAM b'tEXt' 41 57
+2022-09-24 16:57:40,922 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 110 9
+2022-09-24 16:57:40,922 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 131 667
+2022-09-24 17:01:58,437 - root - INFO - logger starting
+2022-09-24 17:01:58,539 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-24 17:01:58,539 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 110
+2022-09-24 17:04:43,599 - root - INFO - logger starting
+2022-09-24 17:04:43,706 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-24 17:04:43,706 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 114
+2022-09-24 17:05:13,698 - root - INFO - logger starting
+2022-09-24 17:05:13,808 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-24 17:05:13,809 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 113
+2022-09-24 17:07:34,337 - root - INFO - logger starting
+2022-09-24 17:07:34,447 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-24 17:07:34,447 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 118
+2022-09-24 18:56:17,904 - root - INFO - logger starting
+2022-09-24 18:57:24,583 - root - INFO - logger starting
+2022-09-24 18:58:01,691 - root - INFO - logger starting
+2022-09-24 18:58:19,088 - root - INFO - logger starting
+2022-09-24 18:58:29,851 - root - INFO - logger starting
+2022-09-24 19:03:11,174 - root - INFO - logger starting
+2022-09-24 19:04:31,972 - root - INFO - logger starting
+2022-09-24 19:04:54,848 - root - INFO - logger starting
+2022-09-24 19:05:38,954 - root - INFO - logger starting
+2022-09-24 19:08:17,436 - root - INFO - logger starting
+2022-09-24 19:24:47,871 - root - INFO - logger starting
+2022-09-24 19:25:09,699 - root - INFO - logger starting
+2022-09-24 19:26:13,134 - root - INFO - logger starting
+2022-09-24 19:26:36,329 - root - INFO - logger starting
+2022-09-24 19:27:05,495 - root - INFO - logger starting
+2022-09-24 19:27:20,025 - root - INFO - logger starting
+2022-09-24 19:27:35,416 - root - INFO - logger starting
+2022-09-24 19:31:52,707 - root - INFO - logger starting
+2022-09-24 19:37:18,165 - root - INFO - logger starting
+2022-09-24 19:37:38,074 - root - INFO - logger starting
+2022-09-24 19:38:52,639 - root - INFO - logger starting
+2022-09-24 19:53:17,121 - root - INFO - logger starting
+2022-09-24 19:55:24,924 - root - INFO - logger starting
+2022-09-24 19:58:32,611 - root - INFO - logger starting
+2022-09-24 19:59:27,473 - root - INFO - logger starting
+2022-09-24 20:05:13,329 - root - INFO - logger starting
+2022-09-24 20:05:49,944 - root - INFO - logger starting
