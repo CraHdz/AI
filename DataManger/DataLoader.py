@@ -4,7 +4,6 @@ import os
 import torch
 from matplotlib import pyplot as plt
 import cv2
-import torch_geometric
 
 train_dir = "./DataManger/train"
 test_dir = "./DataManger/tests"

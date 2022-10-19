@@ -8,7 +8,7 @@ import torch
 from DataManger.DataLoader import DataLoder
 from model import CNNNet
 
-from torchinfo import summary
+# from torchinfo import summary
 from tools import log
 import cv2
 
@@ -45,9 +45,6 @@ def trainModel(model, trainData, epochs, lr, device, momen, is_loginfo=False, is
     #训练网络
     for e in range(epochs):
         for index, (images, labels) in enumerate(trainData):
-            print(images.shape)
-            print(images)
-            print(labels)
             #将图片和标签加入device
             images = images.to(device)
             labels = labels.to(device)
@@ -92,13 +89,9 @@ def testModel(model, testData, device):
 
             out = model(images)
             _, result = torch.max(out.data, 1)  #返回输入的行最大值和结果
-            print(result)
             total += labels.size(0)
-            print(total)
-            print(result == labels)
-            print((result == labels).sum())
             correct += (result == labels).sum().item()
-    log.info('Accuracy: {}'.format(correct / total))
+    print('Accuracy: {}'.format(correct / total))
 
 def predict(img_input, model, device):
     #加载模型
@@ -113,7 +106,8 @@ def predict(img_input, model, device):
         return pre.item()
 
 def printModelInfo(model, batch_size, channel, weight, high):
-    summary(model, (batch_size, channel, weight, high))
+    # summary(model, (batch_size, channel, weight, high))
+    pass
 
 # class test():
 #     def __new__(cls, *args, **kwargs):
@@ -142,8 +136,8 @@ def main():
     #     comm = input("please input command:")
 
     # dataLoader.savePredictImage()
-    # testModel(config.CNNNetConfig.model, testData, config.device)
-    trainModel(CNNNetConfig.model, trainData, CNNNetConfig.epochs, CNNNetConfig.lr, config.device, CNNNetConfig.momentum, is_loadModel=False)
+    testModel(config.CNNNetConfig.model, testData, config.device)
+    # trainModel(CNNNetConfig.model, trainData, CNNNetConfig.epochs, CNNNetConfig.lr, config.device, CNNNetConfig.momentum, is_loadModel=True)
 
     #predict image
     # img = cv2.imread("DataManger/pImage/2.png", cv2.IMREAD_GRAYSCALE)

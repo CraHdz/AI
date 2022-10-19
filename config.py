@@ -10,14 +10,14 @@ device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
 #训练模型一些常见的参数
 class CNNNetConfig:
-    batch_size = 20
+    batch_size = 100
     test_batch = 33
     momentum = 0.8
-    epochs = 3
+    epochs = 10
     lr = 0.01
 
 
 
 
     model = CNNNet.CNNNet()
-    model_save_path = "modelCNNNet/CNNNetModel.pth"
+    model_save_path = "model/CNNNet/CNNNetModel.pth"
