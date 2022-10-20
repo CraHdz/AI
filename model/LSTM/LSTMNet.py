@@ -41,3 +41,10 @@ class LSTMNet(nn.Module):
 
         output = None
         return output, (h_now, c_now)
+
+
+    def train():
+        pass
+    
+    def test():
+        pass
